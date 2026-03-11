@@ -1,22 +1,32 @@
-# 75DaysLeetcodeChallenge
-<!---LeetCode Topics Start-->
+📅 Challenge: 75 Days LeetCode Challenge  
+💻 Language: Java  
+# 🚀 75 Days LeetCode Challenge
+
+## 📊 Progress
+
+| Difficulty | Solved |
+|------------|--------|
+| Easy | 3 |
+| Medium | 0 |
+| Hard | 0 |
+
 # LeetCode Topics
-## Linked List
+## 🔗 Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
-## Two Pointers
+## 🔗 Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
-## Stack
+## 🔗 Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
-## Recursion
+## 🔗 Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
