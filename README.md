@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
+| [0217-contains-duplicate](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
