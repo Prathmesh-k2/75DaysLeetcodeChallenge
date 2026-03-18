@@ -20,5 +20,6 @@
 | [0175-combine-two-tables](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0620-not-boring-movies) |
 | [1084-sales-analysis-iii](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
