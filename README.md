@@ -24,4 +24,5 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0620-not-boring-movies) |
 | [1084-sales-analysis-iii](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1084-sales-analysis-iii) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
