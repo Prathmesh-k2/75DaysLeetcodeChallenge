@@ -30,6 +30,7 @@
 | [1068-product-sales-analysis-i](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
