@@ -26,6 +26,7 @@
 | [0595-big-countries](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
