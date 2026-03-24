@@ -7,6 +7,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Database
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | ------- |
 | [0704-binary-search](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +58,8 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
