@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0704-binary-search](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -61,9 +62,22 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
