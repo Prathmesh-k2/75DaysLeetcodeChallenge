@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -50,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0704-binary-search](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
