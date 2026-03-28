@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0561-array-partition) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Database
@@ -53,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0561-array-partition](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
