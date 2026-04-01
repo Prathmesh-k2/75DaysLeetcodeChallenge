@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -16,6 +17,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0561-array-partition) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -59,6 +61,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -96,5 +99,10 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0561-array-partition) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
