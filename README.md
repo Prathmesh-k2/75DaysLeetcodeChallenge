@@ -92,6 +92,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +116,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
