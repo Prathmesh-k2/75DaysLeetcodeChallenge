@@ -83,6 +83,7 @@
 | [0561-array-partition](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Prathmesh-k2/75DaysLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
